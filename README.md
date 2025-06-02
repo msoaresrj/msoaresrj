@@ -2,7 +2,7 @@
 ## Ola!👋 Eu sou Marcos Soares
 
 - 🔭 Sou Analista de infra e Suporte ha mais de 12 anos
-- 🌱 Atualmente estou cursando Analise e Desenvolvimento de Sistemas pela Estácio
+- 🌱 Atualmente estou cursando Analise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida - UVA
 
 ### GitHub Stats
 
